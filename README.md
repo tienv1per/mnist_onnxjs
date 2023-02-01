@@ -31,3 +31,5 @@ This will dump `onnx_model.onnx` file. And then you could use that model to make
 ### Notes
 This is just a simple demo by converting Pytorch models to ONNX format. If you want to improve the accuracy of this, then modified the architecture of the model, make it more sophisticated and then you will get better result.</br>
 If you see this repo helpful for you, give me a star :v.
+
+![Simple demo](demo.png)
